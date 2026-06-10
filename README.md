@@ -14,13 +14,15 @@ A basic social media UI with posts and interactions.
 
 ## 📦 Installation
 
-1. Clone the repository
-2. Install dependencies:
+### 1. Clone the repository
+### 2. Install dependencies:
+
 ```bash
    npm install
 ```
 
-3. Start development server:
+### 3. Start development server:
+
 ```bash
    npm run dev
 ```
