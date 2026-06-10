@@ -1,8 +1,35 @@
-# React + Vite
+# 📱 Social Media App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A basic social media UI with posts and interactions.
 
-Currently, two official plugins are available:
+## 🚀 Features
+- Create posts
+- Like/comment UI
+- Responsive design
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🛠️ Technologies Used
+- React
+- JavaScript (ES6+)
+- CSS
+
+## 📦 Installation
+
+1. Clone the repository
+2. Install dependencies:
+
+   npm install
+
+3. Start development server:
+
+   npm run dev
+
+## 🌐 Usage
+After running, open:
+http://localhost:5173
+
+## 📸 Preview
+<img width="1920" height="913" alt="social-media-app" src="https://github.com/user-attachments/assets/7bfc58db-25ee-4b54-a5bb-dfe397fd3836" />
+
+## 📌 Author
+
+Syed Muhammad Saied
