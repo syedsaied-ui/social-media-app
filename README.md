@@ -36,4 +36,4 @@ http://localhost:5173
 
 ## 📌 Author
 
-Syed Muhammad Saied
+**Syed Muhammad Saied**
